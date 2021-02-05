@@ -2,7 +2,7 @@
 #### Coder & Guitarist
 I am Sachin, I love to learn New Skills & Languages.I also enjoy playing Guitar.  
 
-Skills: HTML / CSS / C++ / Python / MySql / C / R
+Skills: MySql / C / R / HTML / CSS / C++ / Python 
 
 - 🔭 I’m currently working on Imporving My Coding Skills. 
 - 🌱 I’m currently learning Front-End Web UI Franmeworks & Tools :Bootstrap4 

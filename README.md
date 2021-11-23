@@ -1,5 +1,5 @@
 ### Hi there 👋, Sachin
-#### Coder & Guitarist
+#### Coder
 I am Sachin, I love to learn New Skills & Languages.I also enjoy playing Guitar.  
 
 Skills: MySql / C / R / HTML / CSS / C++ / Python 
